@@ -2,8 +2,9 @@
     --main-text-color: #434455;
     --headers-color: #2e2f42;
     --footer-background-color: #2e2f42;
-    --logo-color: #4d5ae5;
+    --logo-color: #4d5ae6;
     --body-color: #ffffff; 
+
 }
 body {
     font-family: 'Roboto', sans-serif;
